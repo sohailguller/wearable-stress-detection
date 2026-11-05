@@ -17,7 +17,7 @@ These are retrospective comparisons of selected windows. An unmarked period does
 
 ## Materials and verification
 
-Read the [full paper](reports/paper.pdf).
+Read the [full paper](reports/paper.pdf) or see the [poster](reports/poster.pdf).
 
 Open the [recovered analysis notebook](notebooks/ADARP_Recovered_Analysis.ipynb). A fresh five-minute random forest fit using the original processed table yielded participant-mean AUC 0.773870205, pooled AUC 0.759177577, and bootstrap interval 0.694033329–0.850631670. The inventory, tag extraction and archived figure-export sections were recovered from August notebooks. The model fit was reconstructed; raw-to-feature reproduction remains unverified.
 
