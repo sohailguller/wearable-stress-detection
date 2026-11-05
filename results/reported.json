@@ -1,0 +1,14 @@
+{
+  "Participants": 11,
+  "Five-minute observations": 414,
+  "Stress-related observations": 207,
+  "Matched control observations": 207,
+  "Core wearable features": 24,
+  "Pooled ROC AUC": 0.759178,
+  "Participant-mean ROC AUC": 0.77387,
+  "AUC 95% CI lower": 0.694033,
+  "AUC 95% CI upper": 0.850632,
+  "Accuracy": 0.68599,
+  "F1 score": 0.6875,
+  "Average precision": 0.77195
+}

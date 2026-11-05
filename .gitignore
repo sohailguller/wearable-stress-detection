@@ -1,0 +1,13 @@
+data/
+raw/
+private/
+runs/
+.env
+.env.*
+*.pem
+*.key
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+~$*

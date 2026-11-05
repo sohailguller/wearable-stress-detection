@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Please cite this research repository if you use its materials. Cite the source dataset separately."
+title: "Participant-Independent Identification of Self-Reported Stress Events From Wearable Sensor Data During Alcohol Use Disorder Recovery"
+authors:
+  - family-names: Guller
+    given-names: Sohail
+type: software
